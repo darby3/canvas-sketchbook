@@ -118,3 +118,15 @@ utils.containsPoint = function(rect, x, y) {
   return !(x < rect.x || x > rect.x + rect.width ||
            y < rect.y || y > rect.y + rect.height);
 };
+
+/**
+ * Some random number functions.
+ */
+
+utils.getRandomArbitrary = function(min, max) {
+  return Math.floor(Math.random() * (max - min)) + min;
+}
+
+utils.coinFlip = function() {
+  return Math.floor(Math.random() * 2);
+}
