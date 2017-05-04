@@ -4,10 +4,13 @@ Canvas Experiments.
 
 ## Pages
 
-### Circly Things
+### Like a Ray of Light
 
 [000001](./000001/) / 
 [000002](./000002/) / 
+
+### Circly Things
+
 [000003](./000003/) / 
 [000004](./000004/) / 
 [000005](./000005/) / 
