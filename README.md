@@ -1,13 +1,29 @@
-# canvas-experiments
+# Canvas Experiments
 
-Canvas Experiments.
+## About
 
-## Like a Ray of Light
+I'm experimenting with the HTML canvas element.
+
+Generally speaking I'm probably recreating work that's been done elsewhere, better, but I find it a lot easier to internalize things I do or figure out for myself. Along the way I'm trying to remember to add instructive comments, both so I can look back at what I've done and remember why I did it, and with the thought that, maybe, someone flipping through this code might find something of some use to them.
+
+That said: it's all just me doing stuff and comes with absolutely no warranty whatsoever.
+
+## Methodology
+
+It's a lot of...do a thing...then copy it and modify it. Do, modify. Do, modify. 
+
+Sometimes I set out on a path with a defined end-goal in mind, and I'll try to show my work, as it were. So it's less do-modify and more inch-toward-something-that-may-or-may-not-work-ever.
+
+## The Experiments
+
+I'm trying to annotate these a bit, without worrying too much about naming things, hence the numerical naming conventions. It's sort of like a big sketchbook that way.
+
+### Like a Ray of Light
 
 [000001](./000001/) / 
 [000002](./000002/) / 
 
-## Circly Things
+### Circly Things
 
 [000003](./000003/) / 
 [000004](./000004/) / 
@@ -18,7 +34,7 @@ Canvas Experiments.
 [000009](./000009/) / 
 [000010](./000010/) / 
 
-## Griddy
+### Griddy
 
 [000011](./000011/) / 
 [000012](./000012/) / 
@@ -28,7 +44,7 @@ Canvas Experiments.
 [000016](./000016/) / 
 [000017](./000017/) / 
 
-## Scene Control
+### Scene Control
 
 [000018](./000018/) / 
 [000019](./000019/) / 
@@ -37,18 +53,18 @@ Canvas Experiments.
 [000022](./000022/) / 
 [000023](./000023/) / 
 
-## The Iterations Get a Bit Weird
+### The Iterations Get a Bit Weird
 
 [000024](./000024/) / 
 [000025](./000025/) / 
 [000026](./000026/) / 
 [000027](./000027/) / 
 
-## Jumping Back to 000014 Real Quick
+### Jumping Back to 000014 Real Quick
 
 [000028](./000028/) / 
 
-## Which Turns Into the Abstraction of Grid-Making Into its Own Constructor Function
+### Which Turns Into the Abstraction of Grid-Making Into its Own Constructor Function
 
 [000029](./000029/) / 
 [000030](./000030/) / 
