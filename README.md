@@ -49,3 +49,12 @@ Canvas Experiments.
 ### Jumping Back to 000014 Real Quick
 
 [000028](./000028/) / 
+
+### Which Turns Into the Abstraction of Grid-Making Into its Own Constructor Function
+
+[000029](./000029/) / 
+[000030](./000030/) / 
+[000031](./000031/) / 
+[000032](./000032/) / 
+[000033](./000033/) / 
+
