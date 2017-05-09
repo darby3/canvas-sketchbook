@@ -18,12 +18,12 @@ Sometimes I set out on a path with a defined end-goal in mind, and I'll try to s
 
 I'm trying to annotate these a bit, without worrying too much about naming things, hence the numerical naming conventions. It's sort of like a big sketchbook that way.
 
-### Like a Ray of Light
+### Like a ray of light
 
 [000001](./000001/) / 
 [000002](./000002/) / 
 
-### Circly Things
+### Circly things
 
 [000003](./000003/) / 
 [000004](./000004/) / 
@@ -44,7 +44,7 @@ I'm trying to annotate these a bit, without worrying too much about naming thing
 [000016](./000016/) / 
 [000017](./000017/) / 
 
-### Scene Control
+### Scene control
 
 [000018](./000018/) / 
 [000019](./000019/) / 
@@ -53,18 +53,18 @@ I'm trying to annotate these a bit, without worrying too much about naming thing
 [000022](./000022/) / 
 [000023](./000023/) / 
 
-### The Iterations Get a Bit Weird
+### The iterations get a bit weird
 
 [000024](./000024/) / 
 [000025](./000025/) / 
 [000026](./000026/) / 
 [000027](./000027/) / 
 
-### Jumping Back to 000014 Real Quick
+### Jumping back to 000014 real quick
 
 [000028](./000028/) / 
 
-### Which Turns Into the Abstraction of Grid-Making Into its Own Constructor Function
+### Which turns into the abstraction of grid-making into its own constructor function
 
 [000029](./000029/) / 
 [000030](./000030/) / 
@@ -72,3 +72,10 @@ I'm trying to annotate these a bit, without worrying too much about naming thing
 [000032](./000032/) / 
 [000033](./000033/) / 
 
+### And then I add offset functionality, which gets weird, but eventually is okay, more or less
+
+[000034](./000034/) / 
+[000035](./000035/) / 
+[000036](./000036/) / 
+[000037](./000037/) / 
+[000038](./000038/) / 
