@@ -79,3 +79,8 @@ I'm trying to annotate these a bit, without worrying too much about naming thing
 [000036](./000036/) / 
 [000037](./000037/) / 
 [000038](./000038/) / 
+
+### Clearly time for some light refactoring?
+
+[000039](./000039/) / 
+[000040](./000040/) / 

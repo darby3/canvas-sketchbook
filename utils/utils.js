@@ -127,6 +127,44 @@ utils.getRandomArbitrary = function(min, max) {
   return Math.floor(Math.random() * (max - min)) + min;
 }
 
+utils.getRandomArbitraryDecimal = function(min, max) {
+  return (Math.random() * (max - min)) + min;
+}
+
 utils.coinFlip = function() {
   return Math.floor(Math.random() * 2);
+}
+
+/** 
+ * Build and return a random color string. Takes specific values or ranges as
+ * arrays for random values. 
+ * 
+ * Note: this sure looks complex!
+ */
+
+utils.getRandomColor = function(cfg) {
+  var randomColorValues = [];
+
+  for (var color in cfg) {
+    if (cfg.hasOwnProperty(color)) {
+      if (Array.isArray(cfg[color])) {
+        if (color === 'o') {
+          var colVal = utils.getRandomArbitraryDecimal(cfg[color][0], cfg[color][1]);
+        } else {
+          var colVal = utils.getRandomArbitrary(cfg[color][0], cfg[color][1]);
+        }
+
+        randomColorValues.push(colVal);
+      } else {
+        randomColorValues.push(cfg[color]);
+      }
+    } 
+  }
+
+  // default opacity to 1 if not specified
+  if (randomColorValues.length === 3) {
+    randomColorValues.push(1);
+  }
+
+  return 'rgba(' + randomColorValues.join(',') + ')';
 }
