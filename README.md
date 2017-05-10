@@ -84,3 +84,5 @@ I'm trying to annotate these a bit, without worrying too much about naming thing
 
 [000039](./000039/) / 
 [000040](./000040/) / 
+[000041](./000041/) / 
+[000042](./000042/) / 
