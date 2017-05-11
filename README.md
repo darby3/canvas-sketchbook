@@ -86,3 +86,12 @@ I'm trying to annotate these a bit, without worrying too much about naming thing
 [000040](./000040/) / 
 [000041](./000041/) / 
 [000042](./000042/) / 
+
+### Which lead me back to making non-screen-filling grids
+
+[000043](./000043/) / 
+[000044](./000044/) / 
+[000045](./000045/) / 
+[000046](./000046/) / 
+[000047](./000047/) / 
+[000048](./000048/) / 
