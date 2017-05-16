@@ -103,3 +103,8 @@ I'm trying to annotate these a bit, without worrying too much about naming thing
 [000051](./000051/) / 
 [000052](./000052/) / 
 [000053](./000053/) / 
+
+### Oh hey there's more canvas API stuff I'm not really playing with
+
+[000054](./000054/) / 
+[000055](./000055/) / 
