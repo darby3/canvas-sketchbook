@@ -119,3 +119,7 @@ I'm trying to annotate these a bit, without worrying too much about naming thing
 [000057](./sketches/002/000057/) / 
 [000058](./sketches/002/000058/) / 
 [000059](./sketches/002/000059/) / 
+[000060](./sketches/002/000060/) / 
+[000061](./sketches/002/000061/) / 
+[000062](./sketches/002/000062/) / 
+[000063](./sketches/002/000063/) / 
