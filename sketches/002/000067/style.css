@@ -1,0 +1,16 @@
+html {
+  height: 100vh;
+}
+
+body {
+  background: #323232;
+  height: 100vh;
+  margin: 0;
+  display: grid;
+}
+
+#canvas {
+  background: #fff;
+  align-self: center;
+  justify-self: center;
+}

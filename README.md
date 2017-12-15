@@ -123,3 +123,10 @@ I'm trying to annotate these a bit, without worrying too much about naming thing
 [000061](./sketches/002/000061/) / 
 [000062](./sketches/002/000062/) / 
 [000063](./sketches/002/000063/) / 
+[000064](./sketches/002/000064/) / 
+
+#### Bringing grids back into it
+
+[000065](./sketches/002/000065/) / 
+[000066](./sketches/002/000066/) / 
+[000067](./sketches/002/000067/) / 
