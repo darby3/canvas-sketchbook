@@ -2,6 +2,8 @@
 
 ## About
 
+[What is this all about?](./about.md)
+
 I'm experimenting with the HTML canvas element.
 
 Generally speaking I'm probably recreating work that's been done elsewhere, better, but I find it a lot easier to internalize things I do or figure out for myself. Along the way I'm trying to remember to add instructive comments, both so I can look back at what I've done and remember why I did it, and with the thought that, maybe, someone flipping through this code might find something of some use to them.
