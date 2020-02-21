@@ -135,6 +135,18 @@ utils.coinFlip = function() {
   return Math.floor(Math.random() * 2);
 }
 
+utils.manyCoinFlips = function(flips) {
+  for (let i = 0; i < flips; i++) {
+    const flip = Math.floor(Math.random() * 2);
+
+    if (!flip) {
+      return 0;
+    }
+  }
+
+  return 1;
+}
+
 /** 
  * Build and return a random color string. Takes specific values or ranges as
  * arrays for random values. 
