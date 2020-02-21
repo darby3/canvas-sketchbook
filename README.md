@@ -1,4 +1,4 @@
-# Canvas Experiments
+# Canvas Sketchbook
 
 ## About
 
